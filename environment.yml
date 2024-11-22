@@ -37,7 +37,7 @@ dependencies:
   - requests
   - tqdm
   - pip:
-    - sherpa==4.16
+#    - sherpa==4.16
     - ray[default]==2.9
 
 
